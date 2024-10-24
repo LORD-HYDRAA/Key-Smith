@@ -39,7 +39,7 @@ To install Key Smith, follow these steps:
    `cd Key-Smith`
  
 3. **Run the tool:**  
-   `python3 key-smith.py`
+   `python3 Key-Smith.py`
 
 ## Disclaimer
 
