@@ -63,7 +63,7 @@ def main():
             clear_screen()  
             print_custom_banner() 
             try:
-                subprocess.run(["python", "word_list_generate.py"], check=True) 
+                subprocess.run(["python3", "word_list_generate.py"], check=True) 
             except subprocess.CalledProcessError:
                 print("\nAn error occurred while running the word list generator.")
             input("Press Enter to go back to the menu...")
@@ -71,7 +71,7 @@ def main():
             clear_screen()  
             print_custom_banner() 
             try:
-                subprocess.run(["python", "number_list_generate.py"], check=True) 
+                subprocess.run(["python3", "number_list_generate.py"], check=True) 
             except subprocess.CalledProcessError:
                 print("\nAn error occurred while running the number list generator.")
             input("Press Enter to go back to the menu...")
