@@ -91,11 +91,11 @@ try:
 
     filtered_wordlist = [word for word in wordlist if 8 <= len(word) <= 20]
 
-    with open('word_list.txt', 'w') as file:
+    with open('word_list.lst', 'w') as file:
         for word in filtered_wordlist:
             file.write(word + '\n')
 
-    print(f"Word list generated and saved to word_list.txt. {len(filtered_wordlist)} words created.")
+    print(f"Word list generated and saved to word_list.lst. {len(filtered_wordlist)} words created.")
 
 except KeyboardInterrupt:
     print("\nExiting...")
