@@ -20,11 +20,11 @@ def generate_numbers_to_file():
             print("Error: The starting number should be less than or equal to the ending number.")
             return
         
-        with open("generated_numbers_list.txt", "w") as file:
+        with open("generated_numbers_list.lst", "w") as file:
             for i in range(start, end + 1):
                 file.write(f"{i}\n")
         
-        print("Success: Numbers have been successfully written to 'generated_numbers_list.txt'.")
+        print("Success: Numbers have been successfully written to 'generated_numbers_list.lst'.")
     except ValueError:
         print("Error: Please enter valid integers for both starting and ending numbers.")
 
