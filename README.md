@@ -55,7 +55,7 @@
 
 3. **Run the tool:**
    ```bash
-   python3 key-smith.py
+   python3 Key-Smith.py
    ```
 
 ---
