@@ -53,7 +53,7 @@ def main_menu():
 Main Menu:
 1. Generate Word List
 2. Generate Number List
-3. Filter Word List/Number List
+3. Filter Word List
 0. Exit
 """)
         
