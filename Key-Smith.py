@@ -64,7 +64,7 @@ Main Menu:
         elif choice == "2":
             run_script("number_list_generate")
         elif choice == "3":
-            run_script("word_list_filter")
+            run_script("filter")
         elif choice == "0":
             sys.exit(0)
         else:
