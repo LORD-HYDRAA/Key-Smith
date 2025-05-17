@@ -51,9 +51,9 @@ def main_menu():
         print_centered_banner()
         print("""
 Main Menu:
-1. Generate Wordlist
+1. Generate Word List
 2. Generate Number List
-3. Filter Wordlist
+3. Filter Word List/Number List
 0. Exit
 """)
         
