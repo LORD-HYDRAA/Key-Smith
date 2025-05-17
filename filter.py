@@ -126,7 +126,7 @@ Enter choices (comma separated): """)
                 print_centered_banner()
                 self.show_stats()
             elif '25' in options:
-                filename = input("Output filename (default: wordlist_filtered.lst): ") or 'wordlist_filtered.lst'
+                filename = input("Output filename (default: filtered.lst): ") or 'filtered.lst'
                 self.save_results(filename)
             else:
                 self.apply_filters(options)
