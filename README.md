@@ -36,8 +36,9 @@
 
 ### 🔹 Output File
 - Word lists are saved as:  
-  - `word_list.lst` (for passwords)  
-  - `number_list.lst` (for numeric sequences)
+  - `word_list.lst` (for Word List)  
+  - `number_list.lst` (for Number List)
+  -  `wordlist_filtered.lst` (for Filter Wordlist)
 
 ---
 
