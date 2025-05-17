@@ -14,7 +14,7 @@
 ### 🔹 Flexible Word Options
 - Add additional words for enhanced complexity.
 - The tool allows you to input as many words as you want.
-- Type **`n`** when you're done to stop adding more words.
+
 
 ### 🔹 Special Characters Inclusion
 - Option to integrate special characters (e.g., `!`, `@`, `#`, etc.) for stronger password variations.
