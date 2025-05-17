@@ -38,7 +38,7 @@
 - Word lists are saved as:  
   - `word_list.lst` (for Word List)  
   - `number_list.lst` (for Number List)
-  -  `filtered.lst` (for Filter Word List/Number List)
+  -  `filtered.lst` (for Filter Word List)
 
 ---
 
